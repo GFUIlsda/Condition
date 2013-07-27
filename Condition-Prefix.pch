@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Condition' target in the 'Condition' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+#endif
